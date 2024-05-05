@@ -1,9 +1,33 @@
-<h1 align="center">Hi 👋, I'm Pedro Williams</h1> <p align="left"> </p>
-🔭 I’m currently working on <a href="https://sinalvermelho.uninassau.edu.br/">Sinal Vermelho</a> and <a href="https://play.google.com/store/apps/details?id=com.bem_familia">Bem Familia</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b9ffa&height=120&section=header"/>
 
-📫 Email: pedrowilliamsbc@gmail.com
+**`Software developer`**
 
-📄 Software developer with two years of experience, specialized in Node.js back-end development and its main frameworks. Graduated in Computer Engineering, focused on creating scalable and high-performance solutions. Passionate about learning and always seeking new challenges.
+🚀 Software developer enthusiast with a knack for problem-solving and a passion for coding adventures!</br>
+🎓 Computer Engineering graduate.</br>
+💻 Skilled in Node.js back-end development, focused on crafting efficient solutions.</br>
+📮 Email: pedrowilliamsbc@gmail.com </br>
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrowilliamss&show_icons=true&locale=en&layout=compact" alt="pedrowilliamss"/></p>
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/pedro williams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro williams" height="30" width="40" /></a> <a href="https://www.leetcode.com/pedrowilliamsbc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pedrowilliamsbc" height="30" width="40" /></a> </p>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrowilliamss&theme=algolia)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowilliamss&layout=compact&langs_count=10&theme=algolia&hide=Jupyter%20Notebook,CMake) |
+| ------------- | ------------- |
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+# 🔍 Find Me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-williams-a544a1186/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/pedrowilliamsbc/)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b9ffa&height=120&section=footer"/>
