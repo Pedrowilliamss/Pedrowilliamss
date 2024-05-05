@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Williams</h1> <p align="left"> </p>
-🔭 I’m currently working on [Sinal Vermelho](https://sinalvermelho.uninassau.edu.br/) and [Bem Familia](https://play.google.com/store/apps/details?id=com.bem_familia)
+🔭 I’m currently working on <a href="https://sinalvermelho.uninassau.edu.br/">Sinal Vermelho</a> and <a href="https://play.google.com/store/apps/details?id=com.bem_familia">Bem Familia</a>
 
 📫 Email: pedrowilliamsbc@gmail.com
 
